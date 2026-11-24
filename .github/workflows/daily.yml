@@ -1,1 +1,99 @@
+name: Civic Atlas daily edition
 
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    # 00:47 UTC is 06:17 India Standard Time.
+    - cron: '47 0 * * *'
+
+concurrency:
+  group: civic-atlas-pages
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]' || github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Import source ZIP on first upload
+        id: import
+        if: hashFiles('dist/rss-version-2.txt') == ''
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path, PurePosixPath
+          from zipfile import ZipFile
+          with ZipFile("CivicAtlas-RSS.zip") as archive:
+              paths = [PurePosixPath(name) for name in archive.namelist()]
+              roots = [p.parent.parent for p in paths if len(p.parts) >= 2 and p.parts[-2:] == ("dist", "index.html")]
+              if len(roots) != 1:
+                  raise ValueError("CivicAtlas-RSS.zip must contain one dist/index.html")
+              for entry in archive.infolist():
+                  p = PurePosixPath(entry.filename)
+                  if entry.is_dir() or p.is_absolute() or ".." in p.parts or not p.is_relative_to(roots[0]):
+                      continue
+                  relative = p.relative_to(roots[0])
+                  if relative.parts and (relative.parts[0] in ("dist", "scripts") or relative == PurePosixPath("README.md")):
+                      target = Path(relative)
+                      target.parent.mkdir(parents=True, exist_ok=True)
+                      target.write_bytes(archive.read(entry))
+          PY
+          echo "imported=true" >> "$GITHUB_OUTPUT"
+      - name: Refresh official news
+        run: python3 scripts/refresh.py
+      - name: Validate app and edition
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py'
+          node --check dist/app.js
+          node --check dist/local-ai.js
+          node --check dist/sw.js
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          brief = json.loads(Path("dist/data/brief.json").read_text())
+          study = json.loads(Path("dist/data/study.json").read_text())
+          assert isinstance(brief.get("items"), list)
+          assert isinstance(study, list) and study
+          PY
+      - name: Save refreshed edition
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if [ "${{ steps.import.outputs.imported }}" = "true" ]; then
+            git add -- dist scripts README.md
+          else
+            git add -- dist/data/brief.json
+          fi
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Refresh daily current affairs edition'
+            git push origin "HEAD:refs/heads/$DEFAULT_BRANCH"
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish Civic Atlas
+        id: deployment
+        uses: actions/deploy-pages@v4
