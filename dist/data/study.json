@@ -1,0 +1,226 @@
+[
+  {
+    "title": "Polavaram and the two river basins",
+    "region": "Andhra Pradesh",
+    "topic": "Geography",
+    "concept": "An inter-basin link transfers water from one drainage basin to another. The Polavaram–Vijayawada link connects the Godavari basin with the Krishna basin.",
+    "context": "The link belongs to the Peninsular component of the 1980 National Perspective Plan. The Andhra Pradesh Reorganisation Act, 2014 gave Polavaram national-project status.",
+    "map": "Locate Polavaram on the Godavari and Vijayawada on the Krishna. Trace both rivers east to the Bay of Bengal.",
+    "recall": "Draw the two rivers, name the plan and explain where beneficiaries and project-affected households may differ.",
+    "mains": "How should Andhra Pradesh balance irrigation gains with rehabilitation in an inter-basin transfer? Identify two measurable safeguards.",
+    "trap": "The receiving basin is assumed to be the river on which the project sits.",
+    "correction": "At Polavaram the river is the Godavari. The named link leads towards the Krishna at Vijayawada.",
+    "question": "Which combination correctly identifies the donor river, receiving river and planning component?",
+    "options": [
+      "Godavari → Krishna, Himalayan",
+      "Krishna → Godavari, Peninsular",
+      "Godavari → Krishna, Peninsular",
+      "Krishna → Pennar, Himalayan"
+    ],
+    "answer": 2,
+    "why": [
+      "The rivers are in the right order, but the planning component is Peninsular.",
+      "The component fits, but the flow direction is reversed.",
+      "Polavaram on the Godavari is linked to the Krishna at Vijayawada under the Peninsular component.",
+      "Neither the river pair nor the component identifies this link."
+    ],
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2204097&lang=2&reg=48",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Coringa and the Godavari delta",
+    "region": "Andhra Pradesh",
+    "topic": "Environment",
+    "concept": "Mangroves occupy tidal coastal habitats. At Coringa, channels in the Godavari delta connect the forest to the sea.",
+    "context": "Kakinada district identifies Coringa as a wildlife sanctuary and a mangrove destination. Read a project affecting the delta alongside its effects on tidal channels and fishing livelihoods.",
+    "map": "Start at Kakinada on the east coast, then locate the Godavari distributaries and the Bay of Bengal.",
+    "recall": "Explain how both seawater and freshwater can influence a single mangrove site.",
+    "mains": "Assess how coastal infrastructure planning near Coringa could protect water exchange and livelihoods.",
+    "trap": "All coastal forests are assumed to be sustained by freshwater alone.",
+    "correction": "The setting includes tidal channels. Upstream discharge and tidal exchange both matter.",
+    "question": "Which location and habitat pairing fits Coringa?",
+    "options": [
+      "Kakinada coast and mangroves",
+      "Chilika lagoon and alpine scrub",
+      "Krishna headwaters and tidal mangroves",
+      "Godavari delta and montane grassland"
+    ],
+    "answer": 0,
+    "why": [
+      "The district places the sanctuary near Kakinada in the mangrove belt.",
+      "Chilika is in Odisha and the habitat proposed is inconsistent with a coastal lagoon.",
+      "A river’s headwaters are distinct from this coastal delta.",
+      "The delta location fits, but the montane habitat does not."
+    ],
+    "url": "https://kakinada.ap.gov.in/eco-tourism/",
+    "difficulty": "Basic"
+  },
+  {
+    "title": "Reading India’s revised economic indices",
+    "region": "India",
+    "topic": "Economy",
+    "concept": "The CPI measures change in retail prices for a household consumption basket. The IIP tracks changes in the volume of industrial production.",
+    "context": "At the November 2026 MoSPI conference, the revised CPI used 2024 as its reference year and the revised IIP used 2022–23. Review both the base period and changes in coverage before comparing series.",
+    "map": "For an Andhra Pradesh answer, contrast industrial production at a coastal plant with retail prices faced by households in its market area.",
+    "recall": "Name the unit being measured in each index. Could prices rise while industrial production falls?",
+    "mains": "Why can revised consumption weights improve inflation measurement while complicating comparisons with an old series?",
+    "trap": "If CPI and IIP are both indices, they must share a base year.",
+    "correction": "Their baskets and bases are set for different measurement purposes.",
+    "question": "Which statement fits the series discussed by MoSPI in November 2026?",
+    "options": [
+      "CPI and IIP both use 2024 as the base.",
+      "CPI tracks industrial output in physical units.",
+      "An increase in IIP necessarily establishes retail inflation.",
+      "CPI uses 2024 and IIP uses 2022–23."
+    ],
+    "answer": 3,
+    "why": [
+      "The IIP base is a fiscal year, 2022–23.",
+      "Output volume belongs to IIP. CPI tracks consumer prices.",
+      "The word ‘necessarily’ confuses quantity changes with price changes.",
+      "Each base is correctly paired with its index."
+    ],
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340427&lang=1&reg=3",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "Wetland designation and ecological change",
+    "region": "India",
+    "topic": "Environment",
+    "concept": "A Ramsar designation recognises a wetland of international importance. The Montreux Record flags listed wetlands where human interference has caused, is causing or may cause changes in ecological character.",
+    "context": "The October 2026 additions included Sukhna Wetland in Chandigarh and Sauj Jheel in Uttar Pradesh. The designation count in any answer should carry an as-of date.",
+    "map": "Locate Chandigarh at the foot of the Shivaliks. Mark Uttar Pradesh separately before plotting Sauj Jheel.",
+    "recall": "Distinguish a site’s international recognition from a warning about changes in its ecology.",
+    "mains": "How can wetland managers use water quality and habitat indicators to move from designation to measurable conservation?",
+    "trap": "Every newly designated Ramsar site automatically enters the Montreux Record.",
+    "correction": "The record uses a separate ecological-change criterion.",
+    "question": "Consider two statements. (1) A human-made wetland can qualify as a Ramsar site. (2) Every Ramsar site automatically enters the Montreux Record. Which is correct?",
+    "options": [
+      "2 only",
+      "1 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": 1,
+    "why": [
+      "Statement 2 wrongly treats the separate record as automatic.",
+      "Sukhna is a human-made reservoir and a listed wetland. The record has an additional criterion.",
+      "‘Every’ makes statement 2 too broad.",
+      "The Sukhna example establishes statement 1."
+    ],
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2328132&lang=1&reg=3",
+    "difficulty": "UPSC-Level"
+  },
+  {
+    "title": "Two instruments in India–Nepal cooperation",
+    "region": "World",
+    "topic": "International relations",
+    "concept": "A grant transfers assistance without principal repayment. A line of credit allows borrowing on agreed terms, so the recipient incurs repayment obligations as it draws funds.",
+    "context": "The joint statement of 23 November 2026 linked Indian grant assistance to reconstruction and infrastructure, and a rupee line of credit to Nepal’s energy sector.",
+    "map": "Place Nepal between India and China. Trace a potential Himalayan hydropower connection to demand centres in the Gangetic plains.",
+    "recall": "Explain the difference between an announced credit limit, an actual drawdown and a grant.",
+    "mains": "Assess how the financing instrument can affect fiscal risk and project ownership in neighbourhood partnerships.",
+    "trap": "An announced line of credit is treated as an immediate grant of its full face value.",
+    "correction": "Credit availability, disbursement and grant assistance are distinct.",
+    "question": "Which inference follows from the India–Nepal joint statement?",
+    "options": [
+      "All assistance for energy was a non-repayable grant.",
+      "Announcing the credit limit proves full disbursement.",
+      "The package used distinct instruments for reconstruction and energy.",
+      "A rupee line of credit removes the borrower’s repayment obligation."
+    ],
+    "answer": 2,
+    "why": [
+      "The energy instrument identified was a credit line.",
+      "An approved ceiling does not establish actual drawdown.",
+      "The joint statement distinguishes the grant allocations from the energy credit line.",
+      "Denomination selects a currency. It does not convert a loan into a grant."
+    ],
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340389&lang=1&reg=3",
+    "difficulty": "UPSC-Level"
+  },
+  {
+    "title": "NISAR and radar Earth observation",
+    "region": "World",
+    "topic": "Science",
+    "concept": "Synthetic aperture radar transmits microwave signals and measures their returns. Comparing repeat observations lets researchers study deformation and surface change.",
+    "context": "NISAR, launched from Sriharikota on 30 July 2025, combines NASA’s L-band instrument with ISRO’s S-band. This joint mission connects Indian space capability with global Earth observation.",
+    "map": "Locate Sriharikota on the Andhra Pradesh coast. Choose one Indian floodplain and one glacier basin where repeated observations could inform research.",
+    "recall": "Name the bands and their providers. Explain why a radar observation can work at night.",
+    "mains": "How could repeat radar observations complement ground measurements in India’s disaster planning?",
+    "trap": "A radar satellite needs reflected sunlight for every observation.",
+    "correction": "The sensor supplies its own microwave signal.",
+    "question": "Which combination correctly identifies the radar contributors and imaging principle?",
+    "options": [
+      "NASA L-band, ISRO S-band, active sensing",
+      "NASA S-band, ISRO L-band, active sensing",
+      "NASA L-band, ISRO S-band, passive visible imaging",
+      "Both sensors S-band, passive thermal imaging"
+    ],
+    "answer": 0,
+    "why": [
+      "The bands and both agency roles match the payload. The radar transmits its own energy.",
+      "The roles are reversed.",
+      "The roles match, but the instrument uses active radar.",
+      "The bands and the sensing principle both differ from NISAR."
+    ],
+    "url": "https://science.nasa.gov/mission/nisar/about-the-satellite/",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "The Finance Commission and tax sharing",
+    "region": "India",
+    "topic": "Governance",
+    "concept": "Vertical devolution sets the collective states’ share of the divisible tax pool. Horizontal devolution allocates that share among individual states.",
+    "context": "Article 280 provides for the Finance Commission. The Union accepted the Sixteenth Commission’s recommendation to retain the states’ vertical share at 41 per cent.",
+    "map": "For Andhra Pradesh, distinguish the Union-to-states allocation from the formula that determines the state’s own share.",
+    "recall": "Explain why the collective states’ share cannot by itself give Andhra Pradesh’s tax receipts.",
+    "mains": "How can horizontal sharing balance equalisation and incentives when states have different fiscal capacities?",
+    "trap": "A national vertical percentage is applied as a single state’s entitlement.",
+    "correction": "Horizontal weights determine individual shares within the states’ aggregate.",
+    "question": "If only the relative weights between states change, with the states’ collective percentage fixed, which part of devolution changes?",
+    "options": [
+      "The vertical share alone",
+      "Both shares necessarily",
+      "The constitutional appointment procedure",
+      "The horizontal distribution"
+    ],
+    "answer": 3,
+    "why": [
+      "The aggregate states’ percentage remains fixed in the scenario.",
+      "‘Necessarily’ overstates the effect.",
+      "Appointment is separate from allocating proceeds.",
+      "Changing relative allocations among states changes horizontal distribution."
+    ],
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221390&lang=2&reg=48",
+    "difficulty": "Intermediate"
+  },
+  {
+    "title": "What a PSLV ground test establishes",
+    "region": "Andhra Pradesh",
+    "topic": "Science",
+    "concept": "A static motor test fires a rocket stage while the test facility holds it in place. Engineers can measure how the stage performs under controlled conditions.",
+    "context": "ISRO reported a successful static test of PSLV’s third-stage solid motor at Sriharikota on 12 November 2026. Test evidence and mission-level outcomes answer different questions.",
+    "map": "Locate the Satish Dhawan Space Centre at Sriharikota on India’s Bay of Bengal coast.",
+    "recall": "Explain the difference between a ground test, a launch and an orbital insertion.",
+    "mains": "Using the Sriharikota test, explain how incremental testing reduces uncertainty in public technology programmes.",
+    "trap": "A successful static firing proves payload delivery to orbit.",
+    "correction": "A stage can complete ground testing before any flight takes place.",
+    "question": "Which conclusion is supported directly by the November 2026 ISRO report?",
+    "options": [
+      "A complete PSLV flew with a payload.",
+      "The third-stage solid motor underwent ground testing.",
+      "All future PSLV flights are certified successful.",
+      "A satellite completed its commissioning in space."
+    ],
+    "answer": 1,
+    "why": [
+      "The report documents a static test.",
+      "The stage, propulsion type and setting agree with ISRO’s report.",
+      "‘All’ claims certainty beyond a single test.",
+      "Satellite commissioning is a later spacecraft activity."
+    ],
+    "url": "https://www.isro.gov.in/ISRO_EN/Ground_test_of_third_stage_of_PSLV_PS3.html",
+    "difficulty": "Basic"
+  }
+]
