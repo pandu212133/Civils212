@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T11:43:37.976220+00:00",
+  "checkedAt": "2026-11-25T09:16:39.423753+00:00",
   "sources": [
     {
       "name": "Akashvani · Andhra Pradesh",
@@ -52,6 +52,256 @@
   ],
   "items": [
     {
+      "id": "34a9dffc7210393d6748",
+      "title": "IMD forecasts heavy rainfall over Keralam, Mahe, Tamil Nadu, Puducherry & Karaikal for next 2 days",
+      "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall over Keralam, Mahe, Tamil Nadu, Puducherry and Karaikal during the next two days. The Met Department predicted thunderstorms accompanied by lightning over Andhra Pradesh and Lakshadweep till tomorrow. According to IMD, thunderstorm accompanied with Lightning is likely…",
+      "url": "https://newsonair.gov.in/imd-forecasts-heavy-rainfall-over-keralam-mahe-tamil-nadu-puducherry-karaikal-for-next-2-3-days/",
+      "source": "Akashvani · Andhra Pradesh",
+      "region": "Andhra Pradesh",
+      "date": "2026-11-25",
+      "topic": "Geography"
+    },
+    {
+      "id": "09efb1fc70aeeb858c2e",
+      "title": "Prime Minister shares an article highlighting the expansion of social security coverage for India’s workforce",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341136",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "4447bf6b00add2b88b6b",
+      "title": "Prime Minister shares an article highlighting India’s journey towards Viksit Bharat 2047 shaped by sustained reforms and investment",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341108",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "40d228679a0e6458e164",
+      "title": "Prime Minister shares an article highlighting the growing role of India’s civilisational heritage in shaping global cultural discourse",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341109",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "History"
+    },
+    {
+      "id": "860366f88449e9677074",
+      "title": "PM shares a Sanskrit Subhashitam highlighting the path to supreme spiritual attainment",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341039",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "dcc57e4ac3240d10c0fe",
+      "title": "Union Agriculture Minister Shri Shivraj Singh Chouhan visits farms in Punjab to improve soil health and increase farmers' income",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341083",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "Economy"
+    },
+    {
+      "id": "cc67fa876a8d1fd6db2d",
+      "title": "DPIIT Concludes Special Campaign 6 with Significant Achievements in Swachhata and Reduction of Pendency",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341111",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "dfd36504cb22ad151d42",
+      "title": "PROVISIONAL SERVICE PRODUCER PRICE INDICES (BASE YEAR 2022-23)",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341076",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "7eae411d19f00e471742",
+      "title": "Release of Report of the ‘Sub-Committee on Regional Accounts’ for the 2022-23 Series of National Accounts",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341138",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "27115d16e044db31181c",
+      "title": "National Milk Day",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341056",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "1c6cc81d8b6c9645459b",
+      "title": "Kashi Tamil Sangamam 5.0",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341040",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "9eb0d078f40be212ae96",
+      "title": "President says healthcare & education must remain two important pillars of India’s journey towards Viksit Bharat by 2047",
+      "summary": "President Droupadi Murmu today called for strengthening scientific research, evidence-based evaluation and patient safety to enhance the credibility of homoeopathy. She said healthcare and education must remain the two important pillars of India’s journey towards Viksit Bharat by 2047. Addressing the National Scientific Convention on…",
+      "url": "https://newsonair.gov.in/president-calls-for-strengthening-scientific-research-evidence-based-evaluation-to-enhance-credibility-of-homoeopathy/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "Science"
+    },
+    {
+      "id": "27ccb5648f217211ae09",
+      "title": "NSA Ajit Doval reaffirms commitment to safety & security of Indian Ocean Region at NSA level meeting in Maldives",
+      "summary": "National Security Advisor Ajit Doval today emphasised the shared maritime and civilisational ties among Indian Ocean littoral states, saying the seas must remain a space that connects nations rather than divides them. Addressing the 8th National Security Advisors’ Meeting of the Colombo Security Conclave in Male, Maldives, Mr Doval…",
+      "url": "https://newsonair.gov.in/nsa-ajit-doval-addresses-8th-national-security-advisors-meeting-of-colombo-security-conclave-in-maldives/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "Science"
+    },
+    {
+      "id": "85ccdb6f621f213440dd",
+      "title": "India strongly condemns attack on Riyadh financial district tower",
+      "summary": "India strongly condemned the attack on one of the towers of the financial district in Riyadh yesterday, as well as continued attacks targeting civilian, economic and energy infrastructure in Saudi Arabia. In a statement, the Ministry of External Affairs said that these attacks seriously endanger civilian lives, violate the sovereignty of…",
+      "url": "https://newsonair.gov.in/india-condemns-houthi-attack-on-riyadh-financial-district-tower/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "Economy"
+    },
+    {
+      "id": "018c0a47709b6d420ac3",
+      "title": "SC declines interim bail to Sharjeel Imam, Umar Khalid in Delhi riots case",
+      "summary": "The Supreme Court has refused to grant interim bail to activists Sharjeel Imam and Umar Khalid at present in the 2020 northeast Delhi riots conspiracy case. They had challenged a Delhi High Court order denying them bail in a UAPA case related to the alleged conspiracy behind the February 2020 northeast Delhi riots. A bench […]",
+      "url": "https://newsonair.gov.in/sc-refuses-interim-bail-to-sharjeel-imam-umar-khalid-in-2020-northeast-delhi-riots-conspiracy-case/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "Governance"
+    },
+    {
+      "id": "14867da4fd31f0898578",
+      "title": "Govt is expanding social security coverage for India’s workforce: PM Modi",
+      "summary": "Prime Minister Narendra Modi today said that the government is expanding social security coverage for India’s workforce. In a social media post, Mr Modi shared an article by Vice Chairman of NITI Aayog, Ashok Kumar Lahiri, who writes about the increase in the EPF wage ceiling and its role in bringing more workers under provident […]",
+      "url": "https://newsonair.gov.in/govt-is-expanding-social-security-coverage-for-indias-workforce-pm-modi/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "3d2bdaf29c07806cac7d",
+      "title": "PM Modi shares article by CII President, highlights reforms & investment driving India’s journey towards Viksit Bharat 2047",
+      "summary": "Prime Minister Narendra Modi today said that India’s journey towards Viksit Bharat 2047 is being shaped by sustained reforms and investment across key sectors. Sharing an article by Confederation of Indian Industry CII President R Mukundan in a social media post, Mr Modi said that Mr Mukundan highlighted the foundations laid through…",
+      "url": "https://newsonair.gov.in/pm-modi-shares-article-by-cii-president-highlights-reforms-investment-driving-indias-journey-towards-viksit-bharat-2047/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "3460bda971ca1caf0e07",
+      "title": "Union Minister Ashwini Vaishnaw to visit Tamil Nadu on Nov 26",
+      "summary": "Union Minister for Railways, Information and Broadcasting, Ashwini Vaishnaw will be on a day’s visit to Tamil Nadu tomorrow. During his visit, the Minister is scheduled to visit the RKTR Forged wheel factory situated at Gummidipoondi near Chennai. He will also visit the TBM facility at Ponneri in Tiruvallur district on the same day. The…",
+      "url": "https://newsonair.gov.in/union-minister-ashwini-vaishnaw-to-visit-tamil-nadu-on-nov-26/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "f482c12987ee4326bb6f",
+      "title": "IFFI 2026 celebrates legendary voices in Indian music and diversity of cinema on sixth day",
+      "summary": "The 57th International Film Festival of India, IFFI 2026, in Goa is bringing cinema closer to people through a vibrant blend of films, music, cultural celebrations and creative exchanges. On its sixth day, the festival is celebrating the legacy of legendary voices in Indian music, while also exploring the art of filmmaking and the power…",
+      "url": "https://newsonair.gov.in/iffi-2026-celebrates-legendary-voices-in-indian-music-and-diversity-of-cinema-on-sixth-day/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "092f0ba3d36d4a4dfeac",
+      "title": "JEE Main Session 1 registration with late fee closes on Nov 26",
+      "summary": "The National Testing Agency (NTA) has informed that tomorrow is the final date to register for the first session of the JEE (Main) examination, with the inclusion of a late fee. In a post on social media, the NTA said that 15 lakh 73 thousands 18 registration forms have been submitted so far, of which […]",
+      "url": "https://newsonair.gov.in/jee-main-session-1-registration-with-late-fee-closes-on-nov-26/",
+      "source": "Akashvani · National",
+      "region": "India",
+      "date": "2026-11-25",
+      "topic": "General studies"
+    },
+    {
+      "id": "685abcfb4454ff7f8d0f",
+      "title": "Bangladesh: Workers Clash with Police in Gazipur Over New Minimum Wage of Tk 17,000",
+      "summary": "In Bangladesh’s Gazipur, garment workers clashed with police today after rejecting the newly announced minimum monthly wage and demanding higher pay. According local media reports, protesting workers blocked the Dhaka-Tangail and Dhaka-Mymensingh highways at several points, including Naojor and Bhogra Bypass, disrupting traffic.…",
+      "url": "https://newsonair.gov.in/bangladesh-workers-clash-with-police-in-gazipur-over-new-minimum-wage-of-tk-17000/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-25",
+      "topic": "International relations"
+    },
+    {
+      "id": "159dc3c30f1b8298f08c",
+      "title": "Saudi Arabia, Houthis trade threat warnings for Red Sea Ports; 2 Indians injured in attack on Riyadh skyscrape",
+      "summary": "Saudi Arabia and the Houthis today exchanged threats of hitting each other’s ports along the Red Sea. A day after the 2nd attack in less than a week targeting the PIF tower in Riyadh, the Saudi-led coalition issued a threat warning for the Houthi-controlled Yemeni seaport of Hodeidah. It asked civilians to evacuate the port […]",
+      "url": "https://newsonair.gov.in/saudi-arabia-houthis-trade-threat-warnings-for-red-sea-ports-2-indians-injured-in-attack-on-riyadh-skyscrape/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-25",
+      "topic": "International relations"
+    },
+    {
+      "id": "cb0aeb80ead855a67cd9",
+      "title": "India’s Housing Project Expands in Sri Lanka’s Plantation Communities",
+      "summary": "Thirty-seven new houses are set to be constructed in Sri Lanka’s plantation communities under India’s ongoing housing assistance programme. The foundation stones were laid at Kiriwanakettiya and Kobowela Estates in Kalutara District by Sri Lanka’s Minister of Plantations and Community Infrastructure, K.V. Samantha Vidyarathna, along with…",
+      "url": "https://newsonair.gov.in/indias-housing-project-expands-in-sri-lankas-plantation-communities/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-25",
+      "topic": "International relations"
+    },
+    {
+      "id": "bc3c288eaa4f67dbf533",
+      "title": "Global climate talks must shut door on fossil fuel ‘clout’ - The Hindu",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczFYWkFXOWFnM2d0N3ZGMDExQVNXSEdyX2UyNWFQSl8wYUM0cWtvZEFWMl9YdmJEUlVsbEZaejRQbk10b2V3UkR5TDE3T0VZNHhNanJxS0ZCNmRBMkhNSzJ6Z0V5RTZETXBpX1JDcF81cnBCTDk4ZHFvemtMc3kxZkp1YnMwSV9SWXh4bW9fNmdnWFdBUjZ3LXUwcjBldmdoZkw2b0Y1b01TenM3LUlycWdvc2txMG01Q0HSAcABQVVfeXFMUDR1d3pkNmdRODZueUlUWHZpaThRWFRQTDBwNnNGZDR3LW9TTmdCaDJMb3VMZFJJNld5LWU2UmVJTVlvd3ZONUZYdXNCdDJIYU9aZGRNaVNVcE5NYkJhblh5RDduTjhBYjlqUjNQZG14akFZblh0cXZPbmFDcXZ3Um9SeVpfUXBHNXJ4ZjVCdUVpNnpLNGoyR0QtRGE5OUU2N0IwVUQ0OElWVGxuRWtpc0hBbEY3eFQyY1hJUVBpMmM5?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-25",
+      "topic": "Environment"
+    },
+    {
+      "id": "6970ec65a50c9d1756c0",
+      "title": "China courts Global South with climate cooperation push at COP31 - Eco-Business",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjR2b3I3NklfbHZMcG55Y2o3QkhvRm9OWXZIY1RXMGx2bURzV0ZIZk1McHM3d053T0VRU3JGWTJGUWhpZ09CNzBrWk9VYkFKTVBNU19lT2FKZThEd25hRUVabGFLZ1dVd29jajNTX3pXZjRMTXN6Y212QUdnQVNQWUVQdEJab1BqR0JXMW1Yby0tQmFOTWNmMm9vYURkbVBG?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-25",
+      "topic": "Environment"
+    },
+    {
       "id": "1e253534640ef82c1893",
       "title": "IMD forecasts heavy rainfall over southern regions for four days",
       "summary": "The India Meteorological Department (IMD) has forecast heavy rainfall over Keralam, Mahe, Tamil Nadu, Puducherry and Karaikal during the next four days. According to the IMD, places in Rayalaseema, the Andaman and Nicobar Islands, Coastal Andhra Pradesh, Lakshadweep and South Interior Karnataka are likely to experience thunderstorms…",
@@ -72,10 +322,50 @@
       "topic": "General studies"
     },
     {
+      "id": "d5ccd4a75a79e5c33362",
+      "title": "PRESIDENT OF INDIA GRACES BALI JATRA FESTIVAL 2026 AT KATAKA",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340948",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "dde33192ff0991eaf6e5",
+      "title": "Vice-President Calls for Stronger Global Academic Partnerships to Address Emerging Economic and Social Challenges",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340857",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "Economy"
+    },
+    {
       "id": "6a7e848a390e30b0d715",
       "title": "Vice President Shri C. P. Radhakrishnan Visits Gurudwara Rakab Ganj Sahib on Parkash Purab of Shri Guru Nanak Dev Ji",
       "summary": "",
       "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340728",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "08e69ab38efb8ae50934",
+      "title": "Prime Minister shares glimpses of Dev Deepawali in Varanasi",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2341022",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "3d2ad918b0c46815e55f",
+      "title": "Prime Minister receives a telephone call from the Chancellor of the Federal Republic of Germany",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340862",
       "source": "Press Information Bureau",
       "region": "India",
       "date": "2026-11-24",
@@ -132,10 +422,30 @@
       "topic": "General studies"
     },
     {
+      "id": "9fa811f3cd1461728d96",
+      "title": "India’s Space Economy Set for a Massive Leap to USD 40–45 billion as Private Sector Rewrites Growth Story: Dr. Jitendra Singh",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340845",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "Science"
+    },
+    {
       "id": "cc40806eb4f0b01aeecd",
       "title": "APEDA organises stakeholder interaction programme in Varanasi",
       "summary": "",
       "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340721",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "c20b9ae49fedcfefdd24",
+      "title": "Union Minister Shri Jyotiraditya M. Scindia Chairs Telecom Startups and MSME Conclave 2026; Calls for Strengthening Indigenous Telecom Innovation and Entrepreneurship",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340846",
       "source": "Press Information Bureau",
       "region": "India",
       "date": "2026-11-24",
@@ -156,6 +466,86 @@
       "title": "National Milk Day 2026 to Be Celebrated in Patna, Bihar, with Launch of Key Initiatives and Dedication of Major Dairy and Livestock Infrastructure Projects",
       "summary": "",
       "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340789",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "03c6a82ab625f4d4e0c8",
+      "title": "“Celebrate Cinema by Bringing People Together”: Gujarati Film, Laalo – Krishna Sada Sahaayate wins hearts at IFFI 2026",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340969",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "fa4a863eaa5ea90430b1",
+      "title": "Elephants in the Fog Explores the Paradox of Social Acceptance and Exclusion: Director Abinash Bikram Shah",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340957",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "4cf3059f1a3fba6ecc57",
+      "title": "Mid-fest film ‘I Matter’ Explores Identity, Belonging and the Many Layers of Humanity: Director Alina Șerban at IFFI 2026",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340951",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "7c96bcb7b383bf3db1f5",
+      "title": "“Not Only Filmmakers, Every Human Being Breathes Stories”: Bogdan Mureșanu at IFFI Masterclass",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340919",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "5d505241cb6b1f54b99f",
+      "title": "Gala Premiere at IFFI showcases ambitious Malayalam film Half blending supernatural elements with human emotions",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340912",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "2c3296b7de6e4dd11745",
+      "title": "Saurabh Sachdeva Urges Aspiring Actors to Overcome Fear, Embrace Risks and Align Actions with Ambitions at IFFI Masterclass",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340906",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "8a5c8795536a5b4f6098",
+      "title": "From Everyday Life to the Supernatural: Director Akhil Sathyan on the Making of Sarvam Maya at 57th IFFI",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340866",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "47f5b15a4b6ad80898f4",
+      "title": "Her Lens, Her Legacy, Her Liberty: Women Filmmakers on Redefining Narratives in World Cinema at 57th IFFI",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340841",
       "source": "Press Information Bureau",
       "region": "India",
       "date": "2026-11-24",
@@ -200,6 +590,56 @@
       "region": "India",
       "date": "2026-11-24",
       "topic": "General studies"
+    },
+    {
+      "id": "edfb75be43090955e8ff",
+      "title": "Dr. Ambedkar Foundation to Organise Constitution Day Celebration on 26 November Thursday",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340938",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "Governance"
+    },
+    {
+      "id": "e820f3325c36055292bc",
+      "title": "Union Minister Dr Virendra Kumar Visits Siddharth Nasha Mukti Kendra in Lucknow",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340882",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "dd674b202adff2ab4cea",
+      "title": "Union Minister Dr Virendra Kumar To Launch SAMAVESH And New E-Anudaan Portal Tomorrow November 25",
+      "summary": "",
+      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340843",
+      "source": "Press Information Bureau",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "General studies"
+    },
+    {
+      "id": "0ae913aa7e1c423c12bb",
+      "title": "S&P Global projects India’s economy to grow 7% in FY27 and FY28 - News On AIR",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVB3cWxiZzVtM2prRUdDZFhObW1zMzh6RjNQSE10X2VXM1NRejVhYjdlRGhZakRnT09wUENhZ0FUSmZEWVg5blRGZXcySl94THJkYVFwZFl6bHdkckw3dEpfNGdEWFV6bkx1RmxZZUlBbVRzb2NKMzJHZ0tQZVFSdWJxcUYwb1lRZUFFN3Itbw?oc=5",
+      "source": "Google News · India",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "Economy"
+    },
+    {
+      "id": "ec74df28e3e129f6be36",
+      "title": "The New Era of Indian Agriculture and Allied Sectors - www.pib.gov.in",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
+      "source": "Google News · India",
+      "region": "India",
+      "date": "2026-11-24",
+      "topic": "Economy"
     },
     {
       "id": "2b540c510dc3d76847c3",
@@ -312,14 +752,54 @@
       "topic": "Geography"
     },
     {
-      "id": "0ae913aa7e1c423c12bb",
-      "title": "S&P Global projects India’s economy to grow 7% in FY27 and FY28 - News On AIR",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVB3cWxiZzVtM2prRUdDZFhObW1zMzh6RjNQSE10X2VXM1NRejVhYjdlRGhZakRnT09wUENhZ0FUSmZEWVg5blRGZXcySl94THJkYVFwZFl6bHdkckw3dEpfNGdEWFV6bkx1RmxZZUlBbVRzb2NKMzJHZ0tQZVFSdWJxcUYwb1lRZUFFN3Itbw?oc=5",
-      "source": "Google News · India",
-      "region": "India",
+      "id": "34cc9e8f709d4a727596",
+      "title": "Iranian Parliament Speaker Ghalibaf warns against negotiations with US",
+      "summary": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf today warned that Iran will not take any action or enter into negotiations with the United States in order to end the hostilities in West Asia until its seven conditions are met. Iran reiterated its position amid mounting tensions following fresh US sanctions targeting Iranian financial…",
+      "url": "https://newsonair.gov.in/iranian-parliament-speaker-ghalibaf-warns-against-negotiations-with-us/",
+      "source": "Akashvani · International",
+      "region": "World",
       "date": "2026-11-24",
-      "topic": "Economy"
+      "topic": "Governance"
+    },
+    {
+      "id": "daed0cee3534ddcb5d79",
+      "title": "Guru Nanak Jayanti celebrated with devotion at Dhaka’s Gurdwara Nanak Shahi",
+      "summary": "Guru Nanak Jayanti, marking the birth anniversary of Guru Nanak Dev Ji, was celebrated with devotion and religious fervour at Gurdwara Nanak Shahi in Dhaka, Bangladesh. The occasion highlighted the timeless teachings of Guru Nanak Dev Ji, including love, equality, compassion, humility, peace and selfless service. Devotees gathered to…",
+      "url": "https://newsonair.gov.in/guru-nanak-jayanti-celebrated-with-devotion-at-dhakas-gurdwara-nanak-shahi/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
+    },
+    {
+      "id": "4011a3ab54d62a3bb4e4",
+      "title": "Sarayu-Kamala Express receives warm welcome in Janakpur Dham",
+      "summary": "The inaugural journey of the Sarayu-Kamala Express from Ayodhya in India to Janakpur Dham in Nepal received a warm welcome upon its arrival at Janakpur Dham today. The train was jointly flagged off by Indian Prime Minister Narendra Modi and Nepal Prime Minister Balendra Shah yesterday during the latter’s State Visit to India. The […]",
+      "url": "https://newsonair.gov.in/sarayu-kamala-express-receives-warm-welcome-in-janakpur-dham/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
+    },
+    {
+      "id": "4d049c5c3fcc663b7976",
+      "title": "11 killed in bus-truck collision in Ras Al Khaimah, UAE",
+      "summary": "In the United Arab Emirates, 11 people were killed in a collision between a passenger bus and a truck on Al Watan Road in Ras Al Khaimah city. The UAE Ministry of Interior today said that emergency response teams rushed to the accident site and carried out rescue and emergency medical operations in coordination with […]",
+      "url": "https://newsonair.gov.in/11-killed-in-bus-truck-collision-in-ras-al-khaimah-uae/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
+    },
+    {
+      "id": "a4a94c8b56fe7d16e0c5",
+      "title": "Israeli forces eliminate head of Hamas’ internal security chief in airstrike",
+      "summary": "Israel Defense Forces (IDF) and Israel Security Agency (ISA) had eliminated Naim Muhammad Ashour Abu Nahal, the head of Hamas’ Internal Security Apparatus, in an aerial strike. Announcing the operation, the IDF and ISA, in a joint statement, said that Abu Nahal was a senior Hamas figure who had held several key positions within the […]",
+      "url": "https://newsonair.gov.in/israeli-forces-eliminate-head-of-hamas-internal-security-chief-in-airstrike/",
+      "source": "Akashvani · International",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
     },
     {
       "id": "8eaa410dff4f3c993d23",
@@ -330,6 +810,46 @@
       "region": "World",
       "date": "2026-11-24",
       "topic": "Science"
+    },
+    {
+      "id": "5b32274c03fdbe3bd043",
+      "title": "Why COP31 climate talks collapsed and what to expect next - Atlantic Council",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlhsTzFLd2hPUksyeU04MlVOeHpnU0NscS1IWUppYXJwNnlwM3FxTXFzSVd6ZVhoT3c1WVZWUnFMSHk2OGZXU2YyQ3BpQlQtQmJQX3lmM3dYcmhpd2pZa2lla01JOVU5VTNtbmt3emxHYWJoN2RTSXJEaEVXWlR4YTV5UzVnbnd6cm1GcnItS3lKbXJaYXJVUWZONWNWUFpudVdR?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "Environment"
+    },
+    {
+      "id": "f7969eeb28a0f0ac0c75",
+      "title": "Who Gets to Tax the Seas? - Carnegie Endowment for International Peace",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkY0eWhtM1ZTck9ibXBFVVRqck9DTnpnUFR3a2ZTdzhPUXRVd1R5YXZYeHFVem9WTkd0UjhTVGVlM0g5cTFzRlpVQnlOYnhyc2RTclRUZW9tRVNlTmRlaUs2WkI5NTJCZDBYYzJaRThxQ2RyU0J2d204NEFyd2w3UGdwWFlDdEJHbHVRNHpjcHRQdHVzTmtz?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
+    },
+    {
+      "id": "fd65ed96d6ea8ffd1817",
+      "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits - The Guardian",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQy12LVpnTUFERk5qZVVBOHZ3UUpheWJST1o0UWxVaTdRaTJWVERPNVJhMGY0eE5iQy1tTlVKQVh3Z2JVTjF2ZFRpVlZ2RFQ4ODFzaHNFUTYzUTd0eFpjU3dicUVUUWtwTDhDVnJOZ2hQUk0xTFBVVHIxVldtaUZUbDJYckIzeEZ5VVUzajcyOGV0aTNRX25PZEZjaUFiSXA0OEpKM3VBcw?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "Environment"
+    },
+    {
+      "id": "b59444a450cfa98cdcb8",
+      "title": "EBRD backs Jordanian bank with US$50mn trade finance facility - Global Trade Review (GTR)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2diWWJkV2g5b1o1OHZTN3ZPczM4eWVkM1MwY29SVVQzOXpjR0JMMEFGT1lKU0xzcUp5aFU0cTlTUHlwYnVUWFNuZnhidG9iZF9rSHF6dnFsVWVtc3lUblFtRmE4LTRBUXNTLXVpTmJHSHZMX3RXcUxnNHRIZlNGTnBXVDNwVVJyOUpINlNzRWRaOFhWUWFkNHNnUDg?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-24",
+      "topic": "International relations"
     },
     {
       "id": "3bb46f1dec14c61f8315",
@@ -420,16 +940,6 @@
       "region": "World",
       "date": "2026-11-24",
       "topic": "Science"
-    },
-    {
-      "id": "f7969eeb28a0f0ac0c75",
-      "title": "Who Gets to Tax the Seas? - Carnegie Endowment for International Peace",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUkY0eWhtM1ZTck9ibXBFVVRqck9DTnpnUFR3a2ZTdzhPUXRVd1R5YXZYeHFVem9WTkd0UjhTVGVlM0g5cTFzRlpVQnlOYnhyc2RTclRUZW9tRVNlTmRlaUs2WkI5NTJCZDBYYzJaRThxQ2RyU0J2d204NEFyd2w3UGdwWFlDdEJHbHVRNHpjcHRQdHVzTmtz?oc=5",
-      "source": "Google News · World",
-      "region": "World",
-      "date": "2026-11-24",
-      "topic": "International relations"
     },
     {
       "id": "0e90af1b499c9af12aa0",
@@ -530,6 +1040,36 @@
       "region": "Andhra Pradesh",
       "date": "2026-11-23",
       "topic": "General studies"
+    },
+    {
+      "id": "30e77052431b2a6c0595",
+      "title": "Manufacturing Keeps India’s Economy Humming as Services Lose Steam - Bloomberg.com",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0htVjM2dWNIa0RqNDBBWTJpaGtXeFpoR2M3WmR6ZkJrWnZlbUtaZ3ZJOEc0d2oxWVBHSDc1ZzJLZ2pZblpsbXF2Q0xyTVFiSnFiMnFsYi1sbzlzTGt3bWhqdkJ1TlBLdHU0WGd4RHY3a3hqTTJvckprMTFmbWZfOE5peWFVZUMwU19scHZOQmNqbjhxQ0pfMDhyWENxQ3B0bEJSR1o1SmVxaV9rZEZQTDJxUmk?oc=5",
+      "source": "Google News · India",
+      "region": "India",
+      "date": "2026-11-23",
+      "topic": "Economy"
+    },
+    {
+      "id": "bb64a6d83117783c3774",
+      "title": "No Winter Session of Parliament? Skipped only four times in history - The Hindu",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2ZqUjFFTEdfYzNCR09LMHo4LWZzdHlwM09WVGJqT3J4Sjk5QTJqS0lCa2R2bk0yS1dPWGlhRmgtRTIzT1UwRGN2aHR6SDZHVndwRmRlYzJaVUN3MUh1N1hqRmZYYlFkWlhyN1lVakw3NGNXeHpWaDJCRWdIN2hrbjBxamstVHB0WjRLNHZVRnlqNzY5Z0c2VmVWd3BIWmlDc3FLVFZ3Y0hNUVhiZGFTWGM3ZW9icXN3VGNDTmlrTWxyUkXSAcoBQVVfeXFMTURsQWlFUllvQ1lIVnd3dkRFWENZOHItNVJOUUlaWno0MHZtWkFEUTRrMjE4czk4X2V1eWV4V3doM3FKOWpidDh4T05WM2M3VjFLaHFab2o1OGY5b2wycW5CV3VUS09wZVVkYkpsTkJtUkFzZURoNGJMYllnZFlqa1g0WTFSRldQUWZ6Z2FvNGxzUFIwR1RXNWR3STA4MThCNElJLVlieExGbEl0a3hZVTUtLXNLU212QzEwbnpYVTRZUXpxcHE5N25VZw?oc=5",
+      "source": "Google News · India",
+      "region": "India",
+      "date": "2026-11-23",
+      "topic": "Governance"
+    },
+    {
+      "id": "9a236f19e3bbfd601810",
+      "title": "Strengthening India’s Space Sovereignty - www.pib.gov.in",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fTEZGZFUyR2RHVDFaYkRORF9SVzRjUnJsa2J0c0VNT09fUGdaY1JnaXZ0c2VMbXNfUmJ5ZEZFVlg4bjFvYmdwQ0JUVGU1YlVuQVJTS3kwVTJrRkYzb0JKX3FsWGx2ZWpzQmwtM1pOalpxNC05bmc?oc=5",
+      "source": "Google News · India",
+      "region": "India",
+      "date": "2026-11-23",
+      "topic": "Science"
     },
     {
       "id": "75cd688847514520b96a",
@@ -782,76 +1322,6 @@
       "topic": "General studies"
     },
     {
-      "id": "afaba16b8431d5c910d8",
-      "title": "Union Health Secretary Smt. Punya Salila Srivastava inaugurates India’s first dedicated Human Metabolic Chamber Facility at Christian Medical College (CMC) Vellore",
-      "summary": "",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340358",
-      "source": "Press Information Bureau",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "General studies"
-    },
-    {
-      "id": "ec74df28e3e129f6be36",
-      "title": "The New Era of Indian Agriculture and Allied Sectors - www.pib.gov.in",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "Economy"
-    },
-    {
-      "id": "30e77052431b2a6c0595",
-      "title": "Manufacturing Keeps India’s Economy Humming as Services Lose Steam - Bloomberg.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0htVjM2dWNIa0RqNDBBWTJpaGtXeFpoR2M3WmR6ZkJrWnZlbUtaZ3ZJOEc0d2oxWVBHSDc1ZzJLZ2pZblpsbXF2Q0xyTVFiSnFiMnFsYi1sbzlzTGt3bWhqdkJ1TlBLdHU0WGd4RHY3a3hqTTJvckprMTFmbWZfOE5peWFVZUMwU19scHZOQmNqbjhxQ0pfMDhyWENxQ3B0bEJSR1o1SmVxaV9rZEZQTDJxUmk?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "Economy"
-    },
-    {
-      "id": "880334af22202b60c9e5",
-      "title": "BJP cites Lowy Institute report, counters Rahul’s criticism of Indian economy - The Hindu",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1FQTDN4U2U3VDZRemZsS1dkRTlkdXpJX2RZVFFYcGxhd3FfYWN2V1Jua0Q2VFdxdlhvT0ZmVTk1WEFQUWRobDc1Y0FhLU44czNYR2I2Y1BNTmtIaFZmUk5KZjJVbGVGNzNKX01Xc3hDUVNlXzVpZFRlcEp3UG9GcGVoejNzb0ZnQUtLdmxiYUtPeEwtbk9oYi1fU3JwWW0yM28zQ0lPOTlwSmQ3ckpyWWNBMjdFZlZTV1J1ZnZHSlZxYzZINktzekNibXQyTzRoc1pZSUp30gHcAUFVX3lxTE4tczdJZXlFTE4xb1oxVGx3alpSYlF2SGN1LTRFN0Fib0UycmV0Qk1acVJ6aWFkYks3RzdaaTY3bEZwRWI0dDVMOVZwWWR5Y2dLVWY0UGVycGk5Ui1HNmJpbkhBWHdFOFlCc0FhU08tNXhvR1gzZ0txNFllT3FaOGR4TnV4NERiQjJhQzZTMGVjTHJCY3pXaHYwdnRVLTVtbjRCT3hpYnNKRi1QRm93OEJtZ29YcTh0ZVpEbDdxenVyNmVfZF9zOGJXZWtwM2NCMl8wMkk2Y0I0emotZDI?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "Economy"
-    },
-    {
-      "id": "e163fe8619b2ef20d7dc",
-      "title": "‘Pagla Ghora’ and ‘Ohh My Dog’ Explore the Profound Dimensions of Human Conscience and Unconditional Love at 57th IFFI",
-      "summary": "",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340581",
-      "source": "Press Information Bureau",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "General studies"
-    },
-    {
-      "id": "e18518c30e5367fec469",
-      "title": "“Feeling” Before Story: Aquí and The Huntress Carry Human Emotions Across Borders at IFFI 2026",
-      "summary": "",
-      "url": "https://pib.gov.in/PressReleseDetail.aspx?PRID=2340559",
-      "source": "Press Information Bureau",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "General studies"
-    },
-    {
-      "id": "pib-2340427",
-      "title": "India revises how it measures prices and industrial output",
-      "summary": "MoSPI’s Mumbai conference explained the revised GDP, CPI and IIP series. The CPI sets 2024 equal to 100, while the industrial production index uses 2022–23. Changing the reference period can affect how historical series are compared.",
-      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340427&lang=1&reg=3",
-      "source": "MoSPI via PIB",
-      "region": "India",
-      "date": "2026-11-23",
-      "topic": "Economy"
-    },
-    {
       "id": "29c77c757fde1dadc048",
       "title": "COP31: A big failure for the climate and for workers - International Trade Union Confederation",
       "summary": "",
@@ -902,34 +1372,14 @@
       "topic": "Economy"
     },
     {
-      "id": "889401f5eca190a08f65",
-      "title": "CII Proposes 15 Financial Sector Reforms to Support India’s $26.5 Trillion Economy Goal by 2047 - DD News",
+      "id": "1cef2a247950800185f4",
+      "title": "Andhra Pradesh - Britannica",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU29ZWXZNMUZFMl9TeU5zSEpxRnJjN2dmUGZuOGNCSENGZ3pUV3JJN3lVb1AyTDVSVXBkanZHaUlsM28zYmo0RW9BTXd2WHJDQ2tJYU9Ka3Q2Sy12REI4dFdPOTVoTFZBMHUzUkp2VGVEdUtoZTIybEtzMC1KMEJkRWI2ekF4eXdvNU5aZWN3NVJRMU1HTHN0YWg2a0hmSVhmckRjZ21qRHhnQVBnWVhMNy1oWnZMZFVuUTI0?oc=5",
-      "source": "Google News · India",
-      "region": "India",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84Mm5zMDF4MnlaZTRtVkZwMWV0Yk80ckROY1YxT0NEX0NIcFFuR1M1TW5EZ0FjUnZBUmtmVjBTck9Xazl6NS01MVZ6TVhOWkpEdnA2U2J6X3NIUVE?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
       "date": "2026-11-22",
-      "topic": "Economy"
-    },
-    {
-      "id": "8a512c00f1fcc0a4257f",
-      "title": "BJP criticises Rahul Gandhi for calling India's economy a disaster abroad - India Today",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWNBX2VILUw2aFgyU2ZfUm5zeVIyS3JWQ2oxVW9rVHFVYXJZM21ZQVp3WEZEY0twWEl1aEJaUV95S3U0ZG8zeHdFNzV4ckJveEY4aXlhbDIzd05uenhuSDBiR2d2X2IzRzM1TTFSN3dfbGdONVF0bnZvajJoeW9FWWJfNmM4THUyNFowNmt1ZmFla3VXZERMZHpzTUdSU1BUcmFrT0hNQ2NTMXNMYU9hWS1uSUtvSElZdXdhcE1NWDRfTUxjUkZ4WHZBa2pEdw?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-22",
-      "topic": "Economy"
-    },
-    {
-      "id": "0c3e3063bd1e5462a998",
-      "title": "India's economy growing strongly despite global challenges: Union Minister Shekhawat - ANI News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa0Y0Z2tmRWtSQkpVcDJBNG55amJBMTh5RThTTmlzU3BlWjJLZklxY0pXTU16Ykc4VVlvWHpRN3lPWUd0QTRYVnNhbGowWllrXzVIZHY5Z1B6TjRWdWxUUVpBLVpjd0lEWEQtQlN4aHhXLTdQZHN2Sm1tcGdMYlV0UFk5ZV9RV3YtTWJCVzRGUE1VcXF6VkFFVnhkaHFfNnBJYTZWcU1yT2JUbTFwblplX00wcm8xbkZ2MG5lUm1yWXZ5NHE0X25TeW9XaVBpMUxkVGtkZWg1QXc0YTRCYTVr?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-22",
-      "topic": "Economy"
+      "topic": "General studies"
     },
     {
       "id": "b1d772035fa8532375ad",
@@ -952,16 +1402,6 @@
       "topic": "Science"
     },
     {
-      "id": "e3548a9c5f34a3046c39",
-      "title": "Strengthening Forest Diplomacy, International Engagement, and Sustainable Market Access in Indonesia - International Institute for Sustainable Development",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSGNBZzYxUjVsQ29CR3pnN3locnR4TklNeEltSlNlZGFHcEQ5a19RVkY0UnhwNFRaLWhOU1NIN01DajRZWExMWmpoWEE5cTN1VVVZdzItZjI2M1VQb3hESExDYktSaGhHam14T2xXWkZiYlBMb2dRcURLT2dRN3FQNExUY2lac0R1NUVaZHFWN093R3dnaTZSMFhWd1F1QVFtTWc?oc=5",
-      "source": "Google News · World",
-      "region": "World",
-      "date": "2026-11-21",
-      "topic": "Environment"
-    },
-    {
       "id": "a173ad0ba28a41a606c7",
       "title": "Navigating international trade and tariffs | United States | Global law firm - Norton Rose Fulbright",
       "summary": "",
@@ -970,6 +1410,16 @@
       "region": "World",
       "date": "2026-11-21",
       "topic": "International relations"
+    },
+    {
+      "id": "e3548a9c5f34a3046c39",
+      "title": "Strengthening Forest Diplomacy, International Engagement, and Sustainable Market Access in Indonesia - International Institute for Sustainable Development",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSGNBZzYxUjVsQ29CR3pnN3locnR4TklNeEltSlNlZGFHcEQ5a19RVkY0UnhwNFRaLWhOU1NIN01DajRZWExMWmpoWEE5cTN1VVVZdzItZjI2M1VQb3hESExDYktSaGhHam14T2xXWkZiYlBMb2dRcURLT2dRN3FQNExUY2lac0R1NUVaZHFWN093R3dnaTZSMFhWd1F1QVFtTWc?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-21",
+      "topic": "Environment"
     },
     {
       "id": "9d1a40aac3039e2122d0",
@@ -1012,6 +1462,16 @@
       "topic": "Geography"
     },
     {
+      "id": "2f750c673f7115bab00f",
+      "title": "Andhra Pradesh amends Semiconductor and Display Fab Policy 4.0 - DQ",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakpIYXBHeU9YWUtwWTM3bmdidFdfSE9lemVSckRQbkRUX1VJR2NLNDhSR3UtRnRZelZEM3FLd0Y1RUZ4M2JhWnpSZ0hITUd6T1R5NURtWldLaTJ4eWpsTFJLOFozSVU0aGlGdGdiWGg5X3p6OWs1YlprRDBHbDloenUxdmxBTzlGQzBrNFUydkJaQ2hZNEIwX3lWb0w3R2NHb3RhLWZFTUMtclF0TWfSAa4BQVVfeXFMT2pKSGFwR3lPWFlLcFkzN25nYnRXX0hPZXplUnJEUG5EVF9VSUdjSzQ4Ukd1LUZ0WXpWRDNxS3dGNUVGeDNiYVp6UmdISE1Hek9UeTVEbVpXS2kyeHlqbExSSzhaM0lVNGhpRnRnYlhoOV96ejlrNWJaa0QwR2w5aHp1MXZsQU85RkMwazRVMnZCWkNoWTRCMF95Vm9MN0djR290YS1mRU1DLXJRdE1n?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
+      "date": "2026-11-20",
+      "topic": "Science"
+    },
+    {
       "id": "0039b6177d507b5e1d5a",
       "title": "Call for submissions | Environment-related International Processes, Negotiations, and Fora - Geneva Environment Network",
       "summary": "",
@@ -1052,6 +1512,16 @@
       "topic": "Geography"
     },
     {
+      "id": "02f4e705965124936b27",
+      "title": "Farmers Take AI Data Centre Fight From Fields To Ballot Box In Andhra Pradesh - BehanBox",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnAyVHhrOGdxT1dHUXc5RmxtZkE0aVlOOF9LMlJYQVRMSGY4RllLNm0ybWhSOTBMd3hROXd3NXdNSmNtV2J2bTZjd2dkX2JzV1FwNkw1NkpwakhvaDh4V3ZVT0xzNW51dWFsemktWHZiT3IyU2pvdHluSU1GVzlxWDVJY3hvMlVMVFM0T2xRczg5MmJ1dTRuTDVremF5eTZZNUhpWS1UczFIblVNWWtHaEZLd3VzbzJr?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
+      "date": "2026-11-19",
+      "topic": "General studies"
+    },
+    {
       "id": "eeab5832f6c48a88703a",
       "title": "Palnadu scheme deepens Telangana-Andhra Pradesh water dispute - The New Indian Express",
       "summary": "",
@@ -1072,34 +1542,24 @@
       "topic": "Science"
     },
     {
-      "id": "c796d76392f56ba5b7dd",
-      "title": "India Set for Biggest-Ever Wedding Economy Boom Worth Rs 7.5 Lakh Crore - NDTV",
+      "id": "fd0dffb48181b942557d",
+      "title": "Andhra Pradesh Launches Semiconductor And Display Fab Policy 4.0 - Electronics For You BUSINESS",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaElmSVAxNWp6a2tiaV80cVNrSllVdWt3NV9kZ2JaX0F1TnQyVHppcUU5cGpoYWhOLXZsVjBILXpPa3ZsWVNiMFA1dEp5Z3B0SUx5NHpPYUJ4cC1sdG1aaWxNVlJFOWo0S2kxX21Rcm0tcVJOeFNPYkpIX3RZbjNYOXlmOUNJbUltYkpzbk5BTlBOcS1SQi1nNVFMdFZONkZQcDVwUGJsR3VBU01mTnhCSNIBuAFBVV95cUxQR0RKTERaVHNwSFZmcWRtWDRIS3hhUkxRQ2hHbVpxUTNOYjBzdXlib1EzSVJwazBuU2ZpRjhLaWJJdFVLN3N5cFR0dktKQk5tWDhpUTBJRmhFdG1jakdibGZFUkZ2UFViTTdHMXJYRWNLZ0pJN2liVDRyRE9RVjJ6U0lKa04wUHdxZWdkaE1HclB6MnRSNnliM2xoXzdXcWhILXNBS0lpWm51NUlOdGpsM2VndG0wbjNU?oc=5",
-      "source": "Google News · India",
-      "region": "India",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbWFjNS1TR3NJQXNBSjF5WFIwaWdqeWxRUGhuSFRCS2pVMGl0TlB1YzYxRTExNWxOLTFucnBMVDN3SVg4Yk0wUUlLUXZ6a2NnaXZqTUY4aTl4bDdoZ2JEYlBqLUZxeVJMV0ZGb1B0ZW1kRHd0UnJrMkhpUXpQXzN5V3N0MG1UVC1paWxSNzRQWHRxdGpZSm4xaGZLVUxKX1NFNl9ZdnJHQktpS0x3azV2QldUNA?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
       "date": "2026-11-19",
-      "topic": "Economy"
+      "topic": "Science"
     },
     {
-      "id": "b2f6d4dc361f014f4310",
-      "title": "‘Highly Inaccurate Remarks’: Kiren Rijiju Slams Rahul Gandhi Over ‘Dead Economy’ Comment - Open Magazine",
+      "id": "6ca5e4499af9b1cb6768",
+      "title": "Andhra Pradesh’s attempts to draw 1.8 tmc from Nagarjuna Sagar will be foiled, says Uttam - Telangana Today",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY0dwSWwydURKdTRfdUlVZ09zak1zM0tnaHdhd0RqMmdiVXBzbnc4bGRhRmdQa2p5TGFGWlVOUE9PVER3QnFTZjZzUkE4NkhSdzdoRDkwVDBjVG9CLWxqN19MRXljQVM2VHFuS3cwSnZfZjhHV2FNNjJDa0RfZV9sYkxOckV0NHFUWV9tSjZEaExtcVIwaGV5eEgzNXphdEg5TGxEZ051TXA0RTdMbzFWdHJROC1oWE9LQ1NfLVZLUEs4ZFlucTNvallJX3BPVmRYZ3FwRTVrYVZOcnhmV29J?oc=5",
-      "source": "Google News · India",
-      "region": "India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVBOcWN0amQwcXR2U0RzdXZGYW9sOWotb2ZxcHdvMUZVTGhLOGtkWWF1SFhqQ1hDZW1EZDJWdm5tbnFDd2QyV1dmRVNvX2RtRnRTeGJRdkQ1UmRYOFF1U0l3NVBxNlpxLVN5RElpQU9Jd3owVm90MGxjeVphNFhtdUEzQWFXS2g3RU9xZlBJQkFWUHVmcVRnOEswWGVCcUZQOXoya3YzWVktUGJyYU03aXFkcTM?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
       "date": "2026-11-19",
-      "topic": "Economy"
-    },
-    {
-      "id": "2f0fd4edabc0e4a734d5",
-      "title": "Making the Forest Roadmap Work - CEEW",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW1CZHpWcTNmOWJiM2V2V1AzYUlYNG9JYjZvUG9IN3ZHcWVHUHpuUHhSdk9jTHZvbU5LdWllRmIzeGlkRXBqcC1CX0FVUEJZRGYtbERsVk1TNUpRWHJqeEE5RTlzYnBQWVdZSWdBUWZnclJ6QzcyRWVvdmxQSDd4MTlYOW9XXzFxbDR2NzlNRQ?oc=5",
-      "source": "Google News · World",
-      "region": "World",
-      "date": "2026-11-19",
-      "topic": "Environment"
+      "topic": "General studies"
     },
     {
       "id": "e2d511bbbf07ef54d97c",
@@ -1112,10 +1572,30 @@
       "topic": "International relations"
     },
     {
+      "id": "f557eb4290ea2a15946a",
+      "title": "What does COP31 reveal about the geopolitics of climate change? - Chatham House",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkVYNllLR2xoenZwd0R2YWlGQU5HRjZsQ3V6S2FIelE4ZGc1djJ1TFRtckdRYWZ2eXZGYXpnbFp0QlFrUDBSR2JsWHJiRDJsU1dlYnZ2S2l4bU1CeHlpbjRLN05GSHJJbm42VTJlaTJLaHZlWkNUV28yb1hBcXRsWWViWWI4TWpEdHJndm5DR0d0RlN3NnFr?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-19",
+      "topic": "Environment"
+    },
+    {
       "id": "095ee15b3ff93f81b433",
       "title": "Students, faculty fly to Turkey for global climate change conference - Yale Daily News",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR08xVVpVWlhBX19vOGljbzFRaUVMUzJVeHVmZXdqVHZyV2lyM2pIQWxCZlA2aHN2eVFoUmFQRWp3ZmZIdDdjNlpsdmhjS2QxaFdWc3FYQktsUlhPS0xfb25PQ0ZvN20tcUNDUG1XMzVwVURyYldPdjhaVmhhQkg4OHJBcWNWdWFQTHV3TEJqMjB2dEt2U1ZSeTc5emwxZVdlU2RlVA?oc=5",
+      "source": "Google News · World",
+      "region": "World",
+      "date": "2026-11-19",
+      "topic": "Environment"
+    },
+    {
+      "id": "2f0fd4edabc0e4a734d5",
+      "title": "Making the Forest Roadmap Work - CEEW",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLW1CZHpWcTNmOWJiM2V2V1AzYUlYNG9JYjZvUG9IN3ZHcWVHUHpuUHhSdk9jTHZvbU5LdWllRmIzeGlkRXBqcC1CX0FVUEJZRGYtbERsVk1TNUpRWHJqeEE5RTlzYnBQWVdZSWdBUWZnclJ6QzcyRWVvdmxQSDd4MTlYOW9XXzFxbDR2NzlNRQ?oc=5",
       "source": "Google News · World",
       "region": "World",
       "date": "2026-11-19",
@@ -1152,20 +1632,20 @@
       "topic": "Geography"
     },
     {
-      "id": "2a58da5eef7a0a99e27d",
-      "title": "Andhra Pradesh releases new semiconductor, display fab policy - electronics.economictimes.indiatimes.com",
+      "id": "59acbc5c33c7dd9c37b8",
+      "title": "Andhra Pradesh’s amended semiconductor policy fully matches Centre’s capital support - The Hindu",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGtKOWlBdTJkanJlejNNSFR1VWlRbV94ZDVOQk10akY1bmF5WXJiZnpWU1VSNl9CMEN4cE8yNEZBNlVGZzE3aHFjWFZZUW9UQS0zYnRXLW5WOVdvT0lzN0Z2emNLSDV2RE1EQmNKX3kySDV2cm5rTmVHYUZva1RiN2FKS0lNOWRZeTNtWG1RTy1GNVhLZGpYM1J6M3Z0ZGlHcmxKQ0FId21kOFNQVGtRNlJFam1MZHNkM0ZGdERfTzl3Z05zMVRlM0plc29acGNaVDlOVdIB2gFBVV95cUxPLUhnSHFSaHA5QjRlZVRCWXBXd2k3ZEJDd2Q5SE80Q0FKQnpqTXczVTJieG1LLWN6WHJEcjdqM1ZTRExrUkdjdnZKaVl1MkVLQmtfb2lSRGJ1ZzRnek9MTUxVWHZZRHJ2dWxkMnhCWXI2ZDZ4X1RXckgwME1vYndLbHNoVHJDcVNabklzMUF3clI5andEVGZIOFg4c2FkNGY4WkNkbGlOMGRqVlQxdXpEdFBmR2tLYXI0VV9mbmZUQk5lNFhTcWZiTHhTZGFMY1RwaUZ3VEdYbkZaUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3U4OHpQSDFSNjFCQmYyV2ZaYnRiWGoyU3RYeVB4aGtsOVB6TlB5YXhMQ0YtcWRKaWNMQ2dETUFOQkJZM3pkdlVlNXdkU3RhWHEwcDU4VWFQZE5Rd2h1VmFDSlh1ZWlweXY5YjF4RTltUUp5NjhsLUgyNHBrYXduWW1JTjA4OGM4aTlKZmdXUk1lOFI2V2phdUpfMWdBVjFvX0hsVVlfdnk5MHdwOFpPQXN3Zm5pQ1hTOXBUbWc0enBqellsNjg2YXZVYW42M3NZYWRMUjhGOWJLZFZZbHg3eXpITTZLZWhkVFdnRU1B0gH0AUFVX3lxTE44MnVOSFo5S3Yxckd3LTR6emNsNmtfR1hXT0hjVkR3TlN5WlluZ3FyU1JIb1dpTUIxMWlteGhhVE5sOEFrZ3hFMlc0VVBwMElUcVRQMWFMQTVnN1RXRl9sWUJ1QUpmcDh2M2toTXRvT2t1YVZYUTFnOU5rVjNYRjFvbGNrUUxjMUdiY3FWZG1QUEY5em1DQmtpTE1DeE5vREdYb014am0zSlF5YmJjZUFDUHdzallTRkJkUnNQeFc4eUVKX0tJc3p6NlA3aEJtNVZVczhtQXBLZTd0bGFBM2JxLWVZUEc3NklMX0kwdzc4djZySk0?oc=5",
       "source": "Google News · Andhra Pradesh",
       "region": "Andhra Pradesh",
       "date": "2026-11-18",
       "topic": "Science"
     },
     {
-      "id": "9583524af41269f0ef82",
-      "title": "Andhra Pradesh launches semiconductor policy, offers up to 80% capital - BusinessLine",
+      "id": "2a58da5eef7a0a99e27d",
+      "title": "Andhra Pradesh releases new semiconductor, display fab policy - electronics.economictimes.indiatimes.com",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJOdm1rOFEzZTRiWFFxQ1hRbUNmZWVWQ2NkSnJ3Y1ZrVXlPRnlTUWE4TkRZbm9kMmxncllrME9mcmJxZnJXalhFcHdDU3dpZ2p0OU1UQkd0WjdpRHl6dkN6YnJzQ2ZZZEdwTUJqU2VuemZqbnRQak9RczhJX0RrWTJleTlHQWl6c3ZjVjlES29TN3B3d1FuT21vSmtBVDRnTHlSWDVZLXlhR0QwTXR2QTdGeTQ3Y3l6ZWh4Q1ZXMG5pSW5FUkhRLWZ3VmxtREVMZ1J3TXpn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGtKOWlBdTJkanJlejNNSFR1VWlRbV94ZDVOQk10akY1bmF5WXJiZnpWU1VSNl9CMEN4cE8yNEZBNlVGZzE3aHFjWFZZUW9UQS0zYnRXLW5WOVdvT0lzN0Z2emNLSDV2RE1EQmNKX3kySDV2cm5rTmVHYUZva1RiN2FKS0lNOWRZeTNtWG1RTy1GNVhLZGpYM1J6M3Z0ZGlHcmxKQ0FId21kOFNQVGtRNlJFam1MZHNkM0ZGdERfTzl3Z05zMVRlM0plc29acGNaVDlOVdIB2gFBVV95cUxPLUhnSHFSaHA5QjRlZVRCWXBXd2k3ZEJDd2Q5SE80Q0FKQnpqTXczVTJieG1LLWN6WHJEcjdqM1ZTRExrUkdjdnZKaVl1MkVLQmtfb2lSRGJ1ZzRnek9MTUxVWHZZRHJ2dWxkMnhCWXI2ZDZ4X1RXckgwME1vYndLbHNoVHJDcVNabklzMUF3clI5andEVGZIOFg4c2FkNGY4WkNkbGlOMGRqVlQxdXpEdFBmR2tLYXI0VV9mbmZUQk5lNFhTcWZiTHhTZGFMY1RwaUZ3VEdYbkZaUQ?oc=5",
       "source": "Google News · Andhra Pradesh",
       "region": "Andhra Pradesh",
       "date": "2026-11-18",
@@ -1196,6 +1676,16 @@
       "title": "Andhra Pradesh amends semiconductor policy, offers up to 80% support for chip manufacturing - Moneycontrol.com",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWVNWFhqSGJjMERxeFRTMXp5b3NINk53VE9WR3pTZ0Z2NVdMMFNoc1FjZ3Z6bk5lWU55MWduNVE3SV9oa0pNT3NMZzkzY2hLWTdGQTM4UjZOR25GeHAtOGNWdEZEZEwzTENOLUlhSjV5Yjh0YUUtZ3RuU0VTOXVYZVNwMm5SQTBPZG4wQ0lCVTNORU10emwtSG1rZ283X0FlaUpTYWpsQnRNZnZNcnhSU3NDeEo4MVJxOFRlSUVPV19BSEY2eUZ4Umswcl85bDY5S0N6V1FzZ3h2MTBqbndn0gHkAUFVX3lxTE9JdHdwbVNXa04ySGFubUYzSjBCaUxwX0J6NGdaRWpPd3BmYklzWGZQb0xtYnVNeVNVa1FUTEV6bndkcE9obnlMRG9TXzMyUHJpOU9INXlkeU56MUhlLWU4cm9wMV9sdDRwaDNJQlhIbGJwa0tYSFpUeE5PMlZLNGN1LWFoOGRjdjhpRzBTY0dqbEtMRkxnNUNpY2xVdU9WWlF3aWxSTDR6N0huTm5ieVNPZFNUR09zYUZKb3RCUW82UXhkMDFwZ1NBWGpXb3NRYTNPTVJhVGVra1Z4VzFJSEdLRlh6Mg?oc=5",
+      "source": "Google News · Andhra Pradesh",
+      "region": "Andhra Pradesh",
+      "date": "2026-11-18",
+      "topic": "Science"
+    },
+    {
+      "id": "9583524af41269f0ef82",
+      "title": "Andhra Pradesh launches semiconductor policy, offers up to 80% capital - BusinessLine",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVJOdm1rOFEzZTRiWFFxQ1hRbUNmZWVWQ2NkSnJ3Y1ZrVXlPRnlTUWE4TkRZbm9kMmxncllrME9mcmJxZnJXalhFcHdDU3dpZ2p0OU1UQkd0WjdpRHl6dkN6YnJzQ2ZZZEdwTUJqU2VuemZqbnRQak9RczhJX0RrWTJleTlHQWl6c3ZjVjlES29TN3B3d1FuT21vSmtBVDRnTHlSWDVZLXlhR0QwTXR2QTdGeTQ3Y3l6ZWh4Q1ZXMG5pSW5FUkhRLWZ3VmxtREVMZ1J3TXpn?oc=5",
       "source": "Google News · Andhra Pradesh",
       "region": "Andhra Pradesh",
       "date": "2026-11-18",
@@ -1242,16 +1732,6 @@
       "topic": "Science"
     },
     {
-      "id": "d14fe52e822ac5e8d75d",
-      "title": "India’s Economic Miracle Lifted 500 Million Out of Poverty - The Daily Economy",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbG9sTm4tUFJqR1N0WVB3aWJTcWl4dUJaZUlzSEVzUnRUYzNBQkdUQkVqWnZJNGJOUnBCa01PdXBidnE2TFBBcW8wSmdWb003OTREQUhKNkNYSURJclk2QjViSi1tTEJhUGVWdC15SVg2NjZHNlZpMFR6Zm51V0ZtX2R4aHJRY0w3YWxYQ2JRTjlLakVLdnEyeTBB?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-18",
-      "topic": "Economy"
-    },
-    {
       "id": "3180564214ff891c8cd4",
       "title": "Higher debt, greater nutrition risk amid global uncertainty? New evidence from the International Debt Report - World Bank Blogs",
       "summary": "",
@@ -1260,26 +1740,6 @@
       "region": "World",
       "date": "2026-11-18",
       "topic": "International relations"
-    },
-    {
-      "id": "de10d4c3892e4c24493a",
-      "title": "India’s Purple Economy: From Disability Inclusion to Economic Participation - orfonline.org",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVV4Mmk1bUFURm1fbGUtaWJYaFBqRmNlS2NDdWRtQTFiMkdFNkRHU0VOTm9EUS0wY1FQMUdCM3pkeFd5eThLbE1UeFRhSVNaMGhYbWJaelN3cjVXdjFUdUV6RXd2WTRnQUFvWVVid1Z4X2l4NXh4bEFFTWRzNHJZNHVIYzJyX1cwMExFOHRwSkNETlRxdnVGc0UzZURKUHNZako0RHpYaFo2eF9VTmtabUlIUQ?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-17",
-      "topic": "Economy"
-    },
-    {
-      "id": "ffee8ab402073db0d13a",
-      "title": "How India transformed from fragile five to world's 4th largest economy - bfsi.economictimes.indiatimes.com",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlE1d1l5SEtEVlYxMXU5YkdMM1FRNk5FRDJTN2ZhS0tsT3JwTkhBYVlGa2FNY2ZYTkw3RHFPR3JLdHd6Z3hENjhzVzhUeFBKdk5ja0t0ck5tck52dHpUa3V3YVM5R1dYdjJBSE05WlllWmg1RGNBYWFhQjFudy1tT1MzcnFCRUlCemV0Y3hxTlhRWUl2NDlfelZ4S2ZVb0lZUlhKQjYyWEVPTjhWX29LclZ2eGFxVkh3Zk1tOWhkNE1vSC1hckhTMmJn?oc=5",
-      "source": "Google News · India",
-      "region": "India",
-      "date": "2026-11-17",
-      "topic": "Economy"
     },
     {
       "id": "b0368df1c1daf403073a",
@@ -1430,16 +1890,6 @@
       "region": "Andhra Pradesh",
       "date": "2026-11-04",
       "topic": "Geography"
-    },
-    {
-      "id": "pib-2324120",
-      "title": "Sukhna Wetland and Sauj Jheel join the Ramsar list",
-      "summary": "The Environment Ministry announced two designations, in Chandigarh and Uttar Pradesh respectively. Use their locations to practise wetland mapping and distinguish the international listing from the Montreux Record.",
-      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2324120&lang=2&reg=48",
-      "source": "Environment Ministry via PIB",
-      "region": "India",
-      "date": "2026-10-15",
-      "topic": "Environment"
     }
   ]
 }
